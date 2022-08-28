@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Shawn Shonerd\n");
-
+  printf("Shawn Shonerd!!!!!!!!!!!!!!!!!!!!\n");
+  printf ("Major: Civil Engineering\n");
+ // PAT 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
   return 0;
 }
