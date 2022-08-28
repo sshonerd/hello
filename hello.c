@@ -2,7 +2,7 @@
  * Author: Shawn Shonerd
  * Date: 2022/08/28
  *
- * A simple program that prints my name
+ * A simple program that prints my name and my major and also hopefully - if i have friends - their name and major
  *
  */
 #include <stdlib.h>
